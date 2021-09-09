@@ -8,7 +8,7 @@
 
 #### Coverage Estimates
 
-You can access our coverage estimates in table format [here]().
+You can access our coverage estimates in table format [here](https://github.com/PPML/vax_equity_tracker/tree/main/estimates).
 
 
 #### Methods
@@ -22,12 +22,12 @@ Limitations of this analysis include reliance on several assumptions to address 
 
 #### Input data
 
-We incorporate demographic data from the American Community Survey, overall vaccination rates from the Centers for Disease Control and Prevention, and vaccination breakdowns by race/ethnicity from the Kaiser Family Foundation. You can view the input data [here](). 
+We incorporate demographic data from the American Community Survey, overall vaccination rates from the Centers for Disease Control and Prevention, and vaccination breakdowns by race/ethnicity from the Kaiser Family Foundation. You can view the input data [here](https://github.com/PPML/vax_equity_tracker/tree/main/input). 
 
 
 #### Analytic Code
 
-You can access our analytic code [here]().
+You can access our analytic code [here](https://github.com/PPML/vax_equity_tracker/tree/main/code).
 
 
 #### Acknowledgements
