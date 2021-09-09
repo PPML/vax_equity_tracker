@@ -1,6 +1,6 @@
 # Tracking Racial/Ethnic Disparities in COVID-19 Vaccination
 
-##*Projections Last Updated August 16, 2021*
+## *Projections Last Updated August 16, 2021*
 
 ### Summary: Tracking racial/ethnic disparities in COVID-19 vaccination coverage across US states is essential to advancing vaccine equity. State-level data needed to monitor levels and trends in vaccination disparities are incomplete and diverse. We applied consistent rules to reconcile data, estimate historical coverage, and project future coverage of COVID-19 vaccinations.
 
