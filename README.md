@@ -10,6 +10,7 @@
 
 You can access our coverage estimates in table format [here]().
 
+
 **Methods**
 
 We use historical state-reported vaccination data by race/ethnicity to project vaccine coverage, by state and nationally, among people ages 12 and older for four mutually exclusive racial/ethnic groups (White, Black, Hispanic, and Asian). Specifically, we used data on distribution of vaccines administered by race/ethnicity extracted from state reporting dashboards by the Kaiser Family Foundation, the percentage of people ages 12 and older who have received at least one dose from the Centers for Disease Control and Prevention, and population data from the 2019 American Community Survey to estimate the share of people ages 12 years and older receiving one or more COVID-19 vaccination doses, by state and race/ethnicity. We project coverage rates through December 31, 2021 based on the average vaccination rate between July 19 and August 16 for each racial/ethnic group, by state.
@@ -18,13 +19,16 @@ Data on vaccination coverage by race/ethnicity vary by state in terms of reporti
 
 Limitations of this analysis include reliance on several assumptions to address incomplete and heterogeneous reporting of vaccination data by race/ethnicity across states. Previous reporting on racial/ethnic disparities in vaccination through the CDC and other sources has not adjusted for these data discrepancies, resulting in reported coverage levels that likely underestimate actual population coverage. Although we have adopted a standard set of definitions and rules for reconciling unknown or discrepant data elements to enable transparent and comparable estimation of coverage over time and place, results must be interpreted as approximations in the context of missing and sometimes noisy data.
 
+
 **Input Data**
 
 We incorporate demographic data from the American Community Survey, overall vaccination rates from the Centers for Disease Control and Prevention, and vaccination breakdowns by race/ethnicity from the Kaiser Family Foundation. You can view the input data [here](). 
 
+
 **Analytic Code**
 
 You can access our analytic code [here]().
+
 
 **Acknowledgements**
 
