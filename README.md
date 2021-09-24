@@ -4,11 +4,11 @@
 
 ### Summary: Tracking racial/ethnic disparities in COVID-19 vaccination coverage across US states is essential to advancing vaccine equity. State-level data needed to monitor levels and trends in vaccination disparities are incomplete and diverse. We applied consistent rules to reconcile data, estimate historical coverage, and project future coverage of COVID-19 vaccinations.
 
-#### This repository contains additional details on methods, analytic code, input data, and coverage estimates in table format. If you have questions or comments, please contact us at [vax.equity.tracker@gmail.com](vax.equity.tracker@gmail.com).
+#### This repository contains additional details on methods, analytic code, input data, and coverage estimates in table format. If you have questions or comments, please contact us at <vax.equity.tracker@gmail.com>.
 
 #### Coverage Estimates
 
-You can access our coverage estimates in table format [here]().
+You can access our coverage estimates in table format [here](https://github.com/PPML/vax_equity_tracker/tree/main/estimates).
 
 
 #### Methods
@@ -22,12 +22,12 @@ Limitations of this analysis include reliance on several assumptions to address 
 
 #### Input data
 
-We incorporate demographic data from the American Community Survey, overall vaccination rates from the Centers for Disease Control and Prevention, and vaccination breakdowns by race/ethnicity from the Kaiser Family Foundation. You can view the input data [here](). 
+We incorporate demographic data from the American Community Survey, overall vaccination rates from the Centers for Disease Control and Prevention, and vaccination breakdowns by race/ethnicity from the Kaiser Family Foundation. You can view the input data [here](https://github.com/PPML/vax_equity_tracker/tree/main/input). 
 
 
 #### Analytic Code
 
-You can access our analytic code [here]().
+You can access our analytic code [here](https://github.com/PPML/vax_equity_tracker/tree/main/code).
 
 
 #### Acknowledgements
